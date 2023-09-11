@@ -1,11 +1,11 @@
+/* Global Generic Styles */
 img{
     max-width: 100%;
 }
 
-.container img{
-    width: 100px;
-}
-
-.container-fluid img{
-    width: 30px;
+/* Site Header */
+.main-header img { width: 50px}
+.col-6.pt-4{
+    text-align: center;
+    justify-content: center;
 }
