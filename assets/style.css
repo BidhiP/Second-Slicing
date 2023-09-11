@@ -2,6 +2,10 @@ img{
     max-width: 100%;
 }
 
-.col img{
-    height: 20%;
+.container img{
+    width: 100px;
+}
+
+.container-fluid img{
+    width: 30px;
 }
