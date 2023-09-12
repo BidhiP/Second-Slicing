@@ -3,7 +3,7 @@ img{
     max-width: 100%;
 }
 .row{ 
-    box-shadow: 0 0 1px 1px #ccc;
+    /* box-shadow: 0 0 1px 1px #ccc; */
 }
 
 /* Site Header */
